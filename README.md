@@ -1,2 +1,2 @@
-# Shell-Scripting
-codes
+# Shell-scripting
+All about shell scripting
